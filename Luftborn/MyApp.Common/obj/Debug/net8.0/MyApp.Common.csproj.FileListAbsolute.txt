@@ -1,0 +1,11 @@
+F:\Luftborn task\Luftborn\MyApp.Common\bin\Debug\net8.0\MyApp.Common.deps.json
+F:\Luftborn task\Luftborn\MyApp.Common\bin\Debug\net8.0\MyApp.Common.dll
+F:\Luftborn task\Luftborn\MyApp.Common\bin\Debug\net8.0\MyApp.Common.pdb
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\MyApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\MyApp.Common.AssemblyInfoInputs.cache
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\MyApp.Common.AssemblyInfo.cs
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\MyApp.Common.csproj.CoreCompileInputs.cache
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\MyApp.Common.dll
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\refint\MyApp.Common.dll
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\MyApp.Common.pdb
+F:\Luftborn task\Luftborn\MyApp.Common\obj\Debug\net8.0\ref\MyApp.Common.dll

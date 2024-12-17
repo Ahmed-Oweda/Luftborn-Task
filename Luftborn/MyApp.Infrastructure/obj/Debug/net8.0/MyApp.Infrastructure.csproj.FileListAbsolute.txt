@@ -1,0 +1,17 @@
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.deps.json
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.dll
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.pdb
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.AssemblyInfoInputs.cache
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.AssemblyInfo.cs
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.dll
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\refint\MyApp.Infrastructure.dll
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.pdb
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\ref\MyApp.Infrastructure.dll
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.runtimeconfig.json
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.csproj.AssemblyReference.cache
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.genruntimeconfig.cache
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Domain.dll
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Domain.pdb
+F:\Luftborn task\Luftborn\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.In.4513676F.Up2Date

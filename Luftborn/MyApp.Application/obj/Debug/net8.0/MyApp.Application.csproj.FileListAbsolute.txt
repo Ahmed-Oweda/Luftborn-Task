@@ -1,0 +1,15 @@
+F:\Luftborn task\Luftborn\MyApp.Application\bin\Debug\net8.0\MyApp.Application.deps.json
+F:\Luftborn task\Luftborn\MyApp.Application\bin\Debug\net8.0\MyApp.Application.dll
+F:\Luftborn task\Luftborn\MyApp.Application\bin\Debug\net8.0\MyApp.Application.pdb
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfoInputs.cache
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfo.cs
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.CoreCompileInputs.cache
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.dll
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\refint\MyApp.Application.dll
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.pdb
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\ref\MyApp.Application.dll
+F:\Luftborn task\Luftborn\MyApp.Application\bin\Debug\net8.0\MyApp.Domain.dll
+F:\Luftborn task\Luftborn\MyApp.Application\bin\Debug\net8.0\MyApp.Domain.pdb
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.AssemblyReference.cache
+F:\Luftborn task\Luftborn\MyApp.Application\obj\Debug\net8.0\MyApp.Ap.B540CA8A.Up2Date
