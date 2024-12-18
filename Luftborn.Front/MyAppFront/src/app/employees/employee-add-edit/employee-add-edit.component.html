@@ -1,0 +1,34 @@
+<div class="container">
+  <h2>{{ isEditMode ? 'Edit Employee' : 'Add Employee' }}</h2>
+
+  <form #form="ngForm" (ngSubmit)="saveEmployee()">
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>First Name</mat-label>
+      <input matInput [(ngModel)]="employee.firstName" name="firstName" required />
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>Last Name</mat-label>
+      <input matInput [(ngModel)]="employee.lastName" name="lastName" required />
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>Email</mat-label>
+      <input matInput [(ngModel)]="employee.email" name="email" required />
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>Department</mat-label>
+      <input matInput [(ngModel)]="employee.department" name="department" required />
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>Join Date</mat-label>
+      <input matInput datepicker type="date" [ngModel]="employee.companyJoinDate | date:'yyyy-MM-dd'" (ngModelChange)="employee.companyJoinDate=$event" name="companyJoinDate" required />
+    </mat-form-field>
+
+    <button [disabled]="!form.valid" mat-raised-button color="primary" type="submit">{{ isEditMode ? 'Update' : 'Save' }}</button>
+    <button mat-raised-button color="warn" routerLink="/employees">Cancel</button>
+  </form>
+</div>
+
